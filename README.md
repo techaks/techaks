@@ -19,17 +19,16 @@
 
 
 
-## 📊 GitHub Stats & Streak
+<h2 align="center">🔥 GitHub Stats 🔥</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=techaks&show_icons=true&theme=tokyonight" alt="techaks GitHub stats" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techaks&layout=compact&theme=tokyonight" alt="techaks Top Languages" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=techaks&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="techaks's streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/streak?user=techaks&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=techaks&show_icons=true&count_private=true&theme=github_dark&hide_border=true" alt="techaks's stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/streak?user=techaks&theme=tokyonight&mode=daily" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techaks&layout=compact&theme=github_dark&hide_border=true" alt="techaks's top languages" />
 </p>
