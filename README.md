@@ -19,6 +19,14 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techaks&layout=compact&theme=tokyonight" alt="techaks" /></p>
+## 📊 GitHub Stats & Streak
 
-<p><img align="center" src="https://streak-stats.demolab.com/?user=techaks&theme=tokyonight" alt="techaks" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=techaks&show_icons=true&theme=tokyonight" alt="techaks GitHub stats" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techaks&layout=compact&theme=tokyonight" alt="techaks Top Languages" height="180em" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=techaks&theme=tokyonight&hide_border=false" alt="techaks GitHub Streak" />
+</p>
+
