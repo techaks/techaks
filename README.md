@@ -2,11 +2,11 @@
 <h3 align="center">🚀 Passionate Developer | Turning Ideas into Reality</h3>
 
 <img align="right" alt="dev" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"  >
-- 👨‍💻 All of my projects are available at [https://portfolio-aks-cse.vercel.app/]
+- 👨‍💻 All of my projects are available at https://portfolio-aks-cse.vercel.app/
 
 - 📫 How to reach me **aks22cse@gmail.com**
 
-- ⚡ Fun fact **My code speaks louder than my bio ever could.**
+- ⚡ Fun fact  : **My code speaks louder than my bio ever could.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,14 +19,28 @@
 
 
 
+
+
+
+
+<div align="center">
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=techaks&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=techaks&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=techaks&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+<p>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=techaks&theme=transparent&hide_border=false" alt="GitHub Streak" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techaks&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="techaks Top Languages" />
+</p>
+
+</div>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=rituxkumar&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=techaks&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![snake gif](https://github.com/techaks/techaks/blob/output/github-snake-dark.svg)
 
