@@ -29,3 +29,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/streak?user=techaks&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/streak?user=techaks&theme=tokyonight&mode=daily" alt="GitHub Streak" />
+</p>
