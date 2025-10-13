@@ -26,13 +26,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techaks&layout=compact&theme=tokyonight" alt="techaks Top Languages" height="180em" />
 </p>
 
+
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=techaks&theme=tokyonight" alt="GitHub Streak" />
 </p>
-![techaks GitHub Streak](https://streak-stats.demolab.com?user=techaks&theme=tokyonight&t=1)
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/streak?user=techaks&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-
+<img src="https://github-readme-stats.vercel.app/api/streak?user=techaks&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
