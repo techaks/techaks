@@ -2,11 +2,11 @@
 <h3 align="center">🚀 Passionate Developer | Turning Ideas into Reality</h3>
 
 <img align="right" alt="dev" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"  >
-- 👨‍💻 All of my projects are available at https://portfolio-aks-cse.vercel.app/
+ 👨‍💻 All of my projects are available at https://portfolio-aks-cse.vercel.app/
 
-- 📫 How to reach me **aks22cse@gmail.com**
+ 📫 How to reach me **aks22cse@gmail.com**
 
-- ⚡ Fun fact  : **My code speaks louder than my bio ever could.**
+ ⚡ Fun fact  : **My code speaks louder than my bio ever could.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
