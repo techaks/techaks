@@ -19,12 +19,14 @@
 
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=techaks&show_icons=true&count_private=true&theme=github_dark&hide_border=true" alt="techaks's stats" />
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=techaks&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=techaks&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=techaks&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techaks&layout=compact&theme=github_dark&hide_border=true" alt="techaks's top languages" />
-</p>
+---
 
+[![](https://visitcount.itsvg.in/api?id=rituxkumar&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
