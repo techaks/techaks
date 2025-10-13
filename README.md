@@ -29,5 +29,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=techaks&theme=tokyonight" alt="GitHub Streak" />
 </p>
+![techaks GitHub Streak](https://streak-stats.demolab.com?user=techaks&theme=tokyonight&t=1)
 
 
