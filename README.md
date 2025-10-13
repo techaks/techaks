@@ -19,4 +19,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=techaks&show_icons=true&locale=en&layout=compact" alt="techaks" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=techaks&" alt="techaks" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=techaks&theme=radical" alt="techaks" /></p>
+
